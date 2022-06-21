@@ -1,6 +1,8 @@
-# Getting Started with Create React App and Redux
+# Business Social Media Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Created by: [cheekyprogrammer](https://cheekyprogrammer.com)
+
+Using React, Redux and Firebase to create a social media platform. Register, create posts and interact with other users in realtime.
 
 ## Available Scripts
 
